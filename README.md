@@ -1,14 +1,14 @@
 <div align="center">
-  <h4>Hi there 👋, I'm Wang Chi, a front-end developer from China</h4>
-  <p>
+  <h4>Hi there 👋, I'm Wang Chi</h4>
+  <!--p>
     <img src="https://github-profile-trophy.vercel.app/?username=wangchi&theme=onedark&title=Stars,Followers,Commit,MultiLanguage&margin-w=0&row=1&column=4"/>
-  </p>
+  </p-->
   <p>
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=wangchi&show_icons=true&locale=en&layout=compact&theme=dark"/>
   </p>
-  <p>
+  <!--p>
     <img src="https://github-readme-stats.vercel.app/api?username=wangchi&show_icons=true&locale=en&theme=dark"/>
-  </p>
+  </p-->
     <p>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=wangchi&theme=dark"/>
   </p>
